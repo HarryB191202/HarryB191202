@@ -1,16 +1,76 @@
 ## Hi there 👋
 
-<!--
-**HarryB191202/HarryB191202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🛡️ Harry's Special Corner
 
-Here are some ideas to get you started:
+Hello there! 👋 Welcome to my little corner of the internet, where cybersecurity meets creativity.
+I'm Harry Bournias—a cyber enthusiast, problem solver, and music lover (more on that later). Grab a coffee ☕ and take a tour of my projects, skills, and aspirations. Who knows, maybe we'll collaborate on something awesome!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Who Am I?
+
+I'm a **Cybersecurity Professional** currently fine-tuning my skills and geeking out over all things cyber defense. With a **Diploma and Certificate IV in Cybersecurity**, I've been diving deep into areas like vulnerability assessment, incident response, and data analytics. 
+
+When I'm not safeguarding digital realms, I’m likely writing songs, collecting vinyl, or jamming with my band 🎸.
+
+---
+
+## 🛠️ What Can I Do?
+
+### **Tech Skills**  
+- **Cyber Frameworks:** ISO 27001, Essential 8, NIST  
+- **Tools:** Cisco NetaCad, Fortinet appliances, Microsoft Azure DevOps, VMWare, GNS3  
+- **Languages:** Python 🐍, SQL 📊  
+- **Specialties:** Vulnerability assessments, incident response, IoT device security  
+
+### **People Skills**  
+I’m not just about code—I’m also about connection! Here are a few of my go-to superpowers:  
+- Problem-solving ninja 🥷  
+- Teamwork enthusiast 🤝  
+- Communication wizard 🗣️  
+- Adaptable and calm under pressure (yes, even during live band gigs!)  
+
+---
+
+## 🎓 Learning Never Stops
+
+- **Diploma in Cybersecurity** (*TAFE SA, Adelaide City* | Feb 2023 – Jul 2024)  
+- **Certificate IV in Cybersecurity** (*TAFE SA, Adelaide City* | Jul 2021 – Dec 2023)  
+- Certifications in progress: **Cisco CCNA** & **ITIL 4** (Expected 2025)  
+
+---
+
+## 🌟 Featured Projects
+
+### [🔗 Project 1: Hackathon Hero](#)  
+A penetration-testing challenge I tackled with Python and SQL. Think you can spot the vulnerabilities I found?  
+
+### [🔗 Project 2: Essential 8 Explorer](#)  
+My adventure implementing the Australian Essential 8 framework in a lab environment. Spoiler alert: It was a blast!  
+
+### [🔗 Project 3: Network Detective](#)  
+Solving mysteries with Cisco tools and network simulation in GNS3. It’s like Sherlock Holmes, but for firewalls and packets.  
+
+---
+
+## 🎶 Fun Facts About Me
+
+- **Languages:** Fluent in English, semi-fluent in Greek, and dreaming of brushing up my Greek in 2025. 🇬🇷  
+- **Hobbies:**  
+  - Playing and writing music 🎼  
+  - Collecting vinyls and analog gear 🎛️  
+  - Exploring nature, swimming, and camping 🏕️  
+- Oh, and I’m an *absolute sucker* for a good data visualization chart. 📈  
+
+---
+
+## 🤝 Let’s Connect!
+
+- **LinkedIn:** [Find me here](#)  
+- **Email:** [Harry.Bournias@gmail.com](mailto:Harry.Bournias@gmail.com)  
+
+Have a project idea, cybersecurity puzzle, or just want to chat about vinyl collections? Don’t hesitate to reach out!
+
+---
+
+🌟 Thanks for stopping by! Hit that ⭐ button if you like what you see or want to stay updated on my latest cyber escapades!
