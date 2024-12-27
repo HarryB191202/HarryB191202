@@ -55,7 +55,7 @@ Solving mysteries with Cisco tools and network simulation in GNS3. It’s like S
 
 ## 🎶 Fun Facts About Me
 
-- **Languages:** Fluent in English, semi-fluent in Greek, and dreaming of brushing up my Greek in 2025. 🇬🇷  
+- **Languages:** Fluent in English, semi-fluent in Greek, and dreaming of brushing up my Greek in 2025.
 - **Hobbies:**  
   - Playing and writing music 🎼  
   - Collecting vinyls and analog gear 🎛️  
@@ -66,8 +66,10 @@ Solving mysteries with Cisco tools and network simulation in GNS3. It’s like S
 
 ## 🤝 Let’s Connect!
 
-- **LinkedIn:** [Find me here](#)  
-- **Email:** [Harry.Bournias@gmail.com](mailto:Harry.Bournias@gmail.com)  
+- **LinkedIn:** [Find me here!](www.linkedin.com/in/harry-bournias-2727b8329)
+- - **Discord:** [Lets Chat!](https://discordapp.com/users/.harrybournias)
+- **Email:** [Harry.Bournias@gmail.com](mailto:Harry.Bournias@gmail.com)
+
 
 Have a project idea, cybersecurity puzzle, or just want to chat about vinyl collections? Don’t hesitate to reach out!
 
