@@ -3,7 +3,7 @@
 # 🛡️ Harry's Special Corner
 
 Hello there! 👋 Welcome to my little corner of the internet, where cybersecurity meets creativity.
-I'm Harry Bournias—a cyber enthusiast, problem solver, and music lover (more on that later). Grab a coffee ☕ and take a tour of my projects, skills, and aspirations. Who knows, maybe we'll collaborate on something awesome!
+I'm Harry —a cyber enthusiast, problem solver, and music lover (more on that later). Grab a coffee ☕ and take a tour of my projects, skills, and aspirations. Who knows, maybe we'll collaborate on something awesome!
 
 ---
 
