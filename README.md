@@ -67,7 +67,7 @@ Solving mysteries with Cisco tools and network simulation in GNS3. It’s like S
 ## 🤝 Let’s Connect!
 
 - **LinkedIn:** [Find me here!](www.linkedin.com/in/harry-bournias-2727b8329)
-- - **Discord:** [Lets Chat!](https://discordapp.com/users/.harrybournias)
+- **Discord:** [Lets Chat!](https://discordapp.com/users/.harrybournias)
 - **Email:** [Harry.Bournias@gmail.com](mailto:Harry.Bournias@gmail.com)
 
 
