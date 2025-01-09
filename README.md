@@ -42,8 +42,8 @@ I’m not just about code—I’m also about connection! Here are a few of my go
 
 ## 🌟 Featured Projects
 
-### [🔗 Project 1: Hackathon Hero](#)  
-A penetration-testing challenge I tackled with Python and SQL. Think you can spot the vulnerabilities I found?  
+### [🔗 Project 1: IoT Investigation!](https://github.com/HarryB191202/Implementing-business-solutions-using-IOT/blob/Harry's-Special-Corner/README.md)  
+An IoT environment I built based on a given business scenario! I set up motion sensors, finger print sensors and even a humidity sensor! Was super fun to create and super fun to show! Have a look!
 
 ### [🔗 Project 2: Essential 8 Explorer](#)  
 My adventure implementing the Australian Essential 8 framework in a lab environment. Spoiler alert: It was a blast!  
