@@ -48,8 +48,8 @@ An IoT environment I built based on a given (fictitious) business scenario! I se
 ### [🔗 Project 2: Cloud Conqueror!](https://github.com/HarryB191202/Deploy-and-configure-Cloud-Resources-/blob/Harry's-Special-Corner/README.md) 
 My crack at deploying resources on the cloud for a (fictitious) company known as Argon Solutions! I enjoyed writing powershell scripts for automation of Azure template deployment! The cloud has been conquered!
 
-### [🔗 Project 3: Network Detective](#)  
-Solving mysteries with Cisco tools and network simulation in GNS3. It’s like Sherlock Holmes, but for firewalls and packets.  
+### [🔗 Project 3: Network Smithin'](#)  
+Like a skilled armoursmith, in this project I harden and sharpen a network server that I built for a (fictitious) company called PCoint! Take a deep dive as I design, build and test a network server that is stronger and more secure than Mithril!
 
 ---
 
