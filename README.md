@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 🛡️ Harry's Special Corner
 
 Hello there! 👋 Welcome to my little corner of the internet, where cybersecurity meets creativity.
